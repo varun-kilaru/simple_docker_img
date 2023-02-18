@@ -2,9 +2,9 @@
 a simple docker image for running a python script
 
 folder structure
-|-- app.py
-|-- data
-    |-- IF.txt
-    |-- Limerick.txt
+|-- app.py\n
+|-- data\n
+\t\t|-- IF.txt
+\t\t|-- Limerick.txt
 |-- output
 
