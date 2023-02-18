@@ -1,7 +1,7 @@
 # simple_docker_img
 a simple docker image for running a python script
 
-folder structure<br/>
+<h3>folder structure:</h3><br/>
 |-- app.py<br/>
 |-- data<br/>
 &emsp;|-- IF.txt<br/>
